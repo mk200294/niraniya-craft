@@ -1,0 +1,1 @@
+Replace text in index.html and add your own images.
